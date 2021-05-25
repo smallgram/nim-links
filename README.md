@@ -56,7 +56,7 @@ A collection of Nim-related links that I may need to refer to later. Lists of ar
   * [Computer Programming with the Nim Programming Language](http://ssalewski.de/nimprogramming.html) - By Stefan Salewski. A comprehensive overview of the language, geared towards those interested in programming in general.
   * [Nim Basics](https://narimiran.github.io/nim-basics/) - By narimiran. A Basic overview of Nim, geared towards those with minimal programming experience.
   * [Learn Nim in Y Minutes](https://learnxinyminutes.com/docs/nim/) - A fast, example code-based introduction to the language.
-### Memory
+### Details
   * [The Nim Memory Model](http://zevv.nl/nim-memory) - By zevv. An overview of how Nim deals with memory.
 ### Scripting
   * [Nimscript Guide (Nim Docs)](https://nim-lang.org/docs/nims.html) - An overview of using Nim as a scripting language.
