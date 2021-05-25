@@ -48,8 +48,15 @@ A collection of Nim-related links that I may need to refer to later. Lists of ar
 
 ## Articles
 
-
 ## Books and Guides
-
-
-
+*Useful books and longer guides about Nim or Nim-related topics*
+* **Books**
+  * [Nim in Action - Dominik Picheta](https://book.picheta.me) - The main Nim book. Somewhat older, but still relevant and good. Goes through the basics of the language with example projects, and touches on a few more advanced or niche aspects of Nim such as FFI/wrapping, and packages. 
+* **Overviews**
+  * [Computer Programming with the Nim Programming Language - Stefan Salewski](http://ssalewski.de/nimprogramming.html) - A comprehensive overview of the language, geared towards those interested in programming in general.
+  * [Nim Basics - narimiran](https://narimiran.github.io/nim-basics/) - A Basic overview of Nim, geared towards those with minimal programming experience.
+  * [Learn Nim in Y Minutes](https://learnxinyminutes.com/docs/nim/) - A fast, example code-based introduction to the language.
+* **Memory**
+  * [The Nim Memory Model - zevv](http://zevv.nl/nim-memory) - An overview of how Nim deals with memory.
+* **Scripting**
+  * [Nimscript Guide (Nim Docs)](https://nim-lang.org/docs/nims.html) - An overview of using Nim as a scripting language.
