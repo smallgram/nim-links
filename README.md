@@ -31,6 +31,7 @@ A collection of Nim-related links that I may need to refer to later. Lists of ar
 * Plot
 
 ### Parsing / Pattern Matching / Text Processing 
+* [nitely/nim-regex](https://github.com/nitely/nim-regex) - A pure Nim library that offers fast regex abilities. Doesn't require an external/dynamic library.
 
 ### Embedded
 
