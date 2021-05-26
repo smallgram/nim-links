@@ -24,6 +24,7 @@ A collection of Nim-related links that I may need to refer to later. Lists of ar
   * [Vladar4/sdl2_nim](https://github.com/Vladar4/sdl2_nim) - Another SDL2 option, with slightly different API.
 
 ### Scientific
+*Libraries for primarily technical or scientific purposes*
 * Math
 * AI / ML
 * Computer Vision
@@ -31,7 +32,13 @@ A collection of Nim-related links that I may need to refer to later. Lists of ar
 * Plot
 
 ### Parsing / Pattern Matching / Text Processing 
+*Libraries for parsing, pattern matching, or other kinds of text or data processing*
 * [nitely/nim-regex](https://github.com/nitely/nim-regex) - A pure Nim library that offers fast regex abilities. Doesn't require an external/dynamic library.
+
+### Data
+*Libraries for dealing with databases, data processing, or data storage*
+* [moigagoo/norm](https://github.com/moigagoo/norm) - Norm is an object-driven, framework-agnostic ORM for Nim that supports SQLite and PostgreSQL.
+* [SSPkrolik/nimongo](https://github.com/SSPkrolik/nimongo) - A basic pure nim MongoDB driver with a nice interface. Doesn't support every feature, but does support sync/async to some extent. 
 
 ### Embedded
 
@@ -46,6 +53,7 @@ A collection of Nim-related links that I may need to refer to later. Lists of ar
 ### Scripting (Nimscript)
 
 ### Utility
+* [c-blake/cligen](https://github.com/c-blake/cligen) - A nice, full featured, CLI tool argument / options / input parsing library.
 
 ## Articles
 
