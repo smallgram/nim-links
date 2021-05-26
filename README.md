@@ -1,6 +1,7 @@
 # Nim Links
 A collection of Nim-related links that I may need to refer to later. Lists of articles, posts, libraries, or other materials. Kind of an awesome-list, but not as curated!
 
+
 ## Libraries
 ### GUI / Desktop
 *Libraries to assist in the creation of desktop applications*
@@ -38,7 +39,7 @@ A collection of Nim-related links that I may need to refer to later. Lists of ar
 ### Data
 *Libraries for dealing with databases, data processing, or data storage*
 * [moigagoo/norm](https://github.com/moigagoo/norm) - Norm is an object-driven, framework-agnostic ORM for Nim that supports SQLite and PostgreSQL.
-* [SSPkrolik/nimongo](https://github.com/SSPkrolik/nimongo) - A basic pure nim MongoDB driver with a nice interface. Doesn't support every feature, but does support sync/async to some extent. 
+* [SSPkrolik/nimongo](https://github.com/SSPkrolik/nimongo) - A basic pure nim MongoDB driver with a nice interface. Doesn't support every feature, but does support sync/async to some extent. Sufficient for simple use cases for sure!
 
 ### Embedded
 
@@ -47,7 +48,9 @@ A collection of Nim-related links that I may need to refer to later. Lists of ar
 ### Javascript
 *Libraries focused on the JS Nim target*
 * Frontend
+  * [juancarlospaco/nim-html-tools](https://github.com/juancarlospaco/nim-html-tools) - A collection of HTML template tools for Nim.
 * Graphics
+  * [define-private-public/HTML5-Canvas-Nim](https://gitlab.com/define-private-public/HTML5-Canvas-Nim) - A nice HTML5 canvas wrapper for the JS target.
 * Node
 
 ### Scripting (Nimscript)
@@ -55,7 +58,10 @@ A collection of Nim-related links that I may need to refer to later. Lists of ar
 ### Utility
 * [c-blake/cligen](https://github.com/c-blake/cligen) - A nice, full featured, CLI tool argument / options / input parsing library.
 
+
 ## Articles
+*Useful smaller articles and reading related to Nim*
+
 
 ## Books and Guides
 *Useful books and longer guides about Nim or Nim-related topics*
